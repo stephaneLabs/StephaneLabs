@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StephaneLab
+- 👋 Hi, I’m @StephaneLabs
 - 👀 I’m interested in mathematics, statistics, sciences and programming   
 - 🌱 I’m currently learning Python, but I have an experience en R and the SAS system
 - 💞️ I’m looking to collaborate on ...
