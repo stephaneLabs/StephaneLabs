@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StephaneLabs
 - 👀 I’m interested in mathematics, statistics, sciences and programming   
-- 🌱 I’m currently learning Python, but I have an experience in R and the SAS system
+- 🌱 I have an experience in R and the SAS system
 - 🐧 (Free-software - open-source - Unix - GNU-Linux) enthousiast since 1997
 - 🐧 Debian / Ubuntu user
 - 💞️ I’m looking to collaborate on ...
