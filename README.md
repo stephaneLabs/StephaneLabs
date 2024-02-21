@@ -10,3 +10,4 @@
 StephaneLab/StephaneLab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![SAS_logo_horiz svg](https://github.com/stephaneLabs/StephaneLabs/assets/98824978/432e23fc-e916-4016-83a5-20c19a99318c)
